@@ -56,8 +56,8 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D
 />
 
 </p>
-```
 
+## 📫 Contact Me
 
 <a href="mailto:diomedesmunozcardenas@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
@@ -73,7 +73,6 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D
 
 </p>
 
----
 
 <p align="center">
 💙 code. create. design. repeat.
