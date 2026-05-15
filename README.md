@@ -45,17 +45,19 @@ Passionate about building modern, interactive and visually appealing web experie
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ddiomedes11&show_icons=true&theme=transparent&hide_border=true"/>
+<img 
+height="180em" 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ddiomedes11&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiomedes11&layout=compact&theme=transparent&hide_border=true"/>
+<img 
+height="180em" 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ddiomedes11&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </p>
+```
 
----
-
-## 📫 Contact Me
-
-<p align="center">
 
 <a href="mailto:diomedesmunozcardenas@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
