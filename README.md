@@ -52,6 +52,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+<a href="https://www.linkedin.com/in/diomedes-mu%C3%B1oz-cardenas-72941a375/">
 <a href="https://github.com/Ddiomedes11">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
